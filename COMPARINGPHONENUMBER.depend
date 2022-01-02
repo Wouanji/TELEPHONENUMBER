@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639215358 source:g:\code-block\doxygen\comparingphonenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+
